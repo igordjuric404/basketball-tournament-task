@@ -1,0 +1,136 @@
+Results after 10 simulations:
+========================================
+Australija - Gold: 1, Silver: 1, Bronze: 1
+Grčka - Gold: 3, Silver: 3, Bronze: 1
+Francuska - Gold: 2, Silver: 0, Bronze: 2
+Japan - Gold: 1, Silver: 2, Bronze: 3
+Južni Sudan - Gold: 1, Silver: 2, Bronze: 0
+Puerto Riko - Gold: 1, Silver: 2, Bronze: 1
+Kanada - Gold: 0, Silver: 0, Bronze: 1
+Brazil - Gold: 1, Silver: 0, Bronze: 0
+Španija - Gold: 0, Silver: 0, Bronze: 1
+
+
+Results after 100 simulations:
+========================================
+Francuska - Gold: 10, Silver: 7, Bronze: 6
+Puerto Riko - Gold: 7, Silver: 13, Bronze: 18
+Brazil - Gold: 12, Silver: 11, Bronze: 12
+Kanada - Gold: 9, Silver: 8, Bronze: 15
+Japan - Gold: 16, Silver: 11, Bronze: 5
+Južni Sudan - Gold: 12, Silver: 12, Bronze: 0
+Sjedinjene Države - Gold: 2, Silver: 4, Bronze: 0
+Španija - Gold: 10, Silver: 3, Bronze: 11
+Grčka - Gold: 10, Silver: 15, Bronze: 22
+Australija - Gold: 7, Silver: 8, Bronze: 8
+Srbija - Gold: 2, Silver: 7, Bronze: 2
+Nemačka - Gold: 3, Silver: 1, Bronze: 1
+
+
+Results after 1000 simulations:
+========================================
+Japan - Gold: 115, Silver: 121, Bronze: 58
+Brazil - Gold: 90, Silver: 82, Bronze: 120
+Puerto Riko - Gold: 107, Silver: 99, Bronze: 196
+Srbija - Gold: 46, Silver: 57, Bronze: 16
+Španija - Gold: 49, Silver: 64, Bronze: 65
+Grčka - Gold: 121, Silver: 111, Bronze: 180
+Kanada - Gold: 114, Silver: 100, Bronze: 127
+Australija - Gold: 89, Silver: 88, Bronze: 121
+Južni Sudan - Gold: 116, Silver: 135, Bronze: 10
+Francuska - Gold: 82, Silver: 82, Bronze: 86
+Nemačka - Gold: 37, Silver: 39, Bronze: 17
+Sjedinjene Države - Gold: 34, Silver: 22, Bronze: 4
+
+
+Results after 10,000 simulations:
+========================================
+Brazil - Gold: 862, Silver: 907, Bronze: 1285
+Francuska - Gold: 837, Silver: 805, Bronze: 812
+Japan - Gold: 1243, Silver: 1241, Bronze: 534
+Australija - Gold: 866, Silver: 844, Bronze: 1134
+Južni Sudan - Gold: 1176, Silver: 1251, Bronze: 92
+Grčka - Gold: 1173, Silver: 1199, Bronze: 1927
+Sjedinjene Države - Gold: 306, Silver: 276, Bronze: 47
+Nemačka - Gold: 374, Silver: 368, Bronze: 175
+Španija - Gold: 677, Silver: 603, Bronze: 597
+Srbija - Gold: 546, Silver: 524, Bronze: 175
+Puerto Riko - Gold: 1045, Silver: 1018, Bronze: 1753
+Kanada - Gold: 895, Silver: 964, Bronze: 1469
+
+
+Results after 100,000 simulations:
+========================================
+Južni Sudan - Gold: 11908, Silver: 12212, Bronze: 1135
+Brazil - Gold: 9265, Silver: 9044, Bronze: 12740
+Francuska - Gold: 8119, Silver: 8143, Bronze: 8256
+Srbija - Gold: 5211, Silver: 5337, Bronze: 1614
+Japan - Gold: 12238, Silver: 12621, Bronze: 5278
+Grčka - Gold: 12170, Silver: 11780, Bronze: 19207
+Kanada - Gold: 9383, Silver: 9220, Bronze: 14127
+Puerto Riko - Gold: 10321, Silver: 9883, Bronze: 17849
+Sjedinjene Države - Gold: 2875, Silver: 3053, Bronze: 511
+Australija - Gold: 8457, Silver: 8205, Bronze: 11167
+Španija - Gold: 6528, Silver: 6732, Bronze: 6448
+Nemačka - Gold: 3525, Silver: 3770, Bronze: 1668
+
+
+Results after 1,000,000 simulations:
+========================================
+Puerto Riko - Gold: 102155, Silver: 99609, Bronze: 177695
+Australija - Gold: 84620, Silver: 83294, Bronze: 112046
+Španija - Gold: 65061, Silver: 65417, Bronze: 63919
+Francuska - Gold: 82264, Silver: 81442, Bronze: 82465
+Brazil - Gold: 91851, Silver: 89711, Bronze: 127231
+Japan - Gold: 122895, Silver: 126496, Bronze: 53118
+Grčka - Gold: 121998, Silver: 119154, Bronze: 192633
+Južni Sudan - Gold: 118517, Silver: 122727, Bronze: 11215
+Srbija - Gold: 52155, Silver: 54242, Bronze: 16159
+Kanada - Gold: 94085, Silver: 91729, Bronze: 142617
+Sjedinjene Države - Gold: 28854, Silver: 29737, Bronze: 4783
+Nemačka - Gold: 35545, Silver: 36442, Bronze: 16119
+
+Results after 10,000,000 simulations:
+========================================
+Južni Sudan - Gold: 1188313, Silver: 1231261, Bronze: 112616
+Kanada - Gold: 937182, Silver: 917940, Bronze: 1423162
+Brazil - Gold: 916425, Silver: 902192, Bronze: 1273571
+Japan - Gold: 1229766, Silver: 1258571, Bronze: 528820
+Puerto Riko - Gold: 1025916, Silver: 993319, Bronze: 1775234
+Španija - Gold: 650801, Silver: 653709, Bronze: 638959
+Grčka - Gold: 1217483, Silver: 1188127, Bronze: 1929985
+Australija - Gold: 847014, Silver: 834139, Bronze: 1121896
+Francuska - Gold: 821923, Silver: 823189, Bronze: 825197
+Nemačka - Gold: 356973, Silver: 364427, Bronze: 159375
+Srbija - Gold: 522890, Silver: 537968, Bronze: 161948
+Sjedinjene Države - Gold: 285314, Silver: 295158, Bronze: 49237
+
+Results after 100,000,000 simulations:
+========================================
+Australija - Gold: 8475601, Silver: 8355538, Bronze: 11225581
+Puerto Riko - Gold: 10247186, Silver: 9948279, Bronze: 17749117
+Japan - Gold: 12295896, Silver: 12586164, Bronze: 5289993
+Grčka - Gold: 12160608, Silver: 11870798, Bronze: 19284467
+Nemačka - Gold: 3565408, Silver: 3645522, Bronze: 1593522
+Brazil - Gold: 9175124, Silver: 9020997, Bronze: 12742912
+Južni Sudan - Gold: 11874115, Silver: 12311918, Bronze: 1122451
+Španija - Gold: 6520034, Silver: 6530522, Bronze: 6388230
+Kanada - Gold: 9370178, Silver: 9174857, Bronze: 14259903
+Francuska - Gold: 8216584, Silver: 8211173, Bronze: 8234097
+Srbija - Gold: 5240105, Silver: 5387440, Bronze: 1620749
+Sjedinjene Države - Gold: 2859161, Silver: 2956792, Bronze: 488978
+
+Results after 1,000,000,000 simulations:
+========================================
+Južni Sudan - Gold: 118710378, Silver: 123111208, Bronze: 11249760
+Kanada - Gold: 93744785, Silver: 91759689, Bronze: 142550279
+Australija - Gold: 84736058, Silver: 83602112, Bronze: 112267987
+Brazil - Gold: 91687777, Silver: 90218934, Bronze: 127424283
+Francuska - Gold: 82162741, Silver: 82153153, Bronze: 82368133
+Puerto Riko - Gold: 102490275, Silver: 99438810, Bronze: 177516805
+Japan - Gold: 122987464, Silver: 125829984, Bronze: 52871495
+Grčka - Gold: 121608686, Silver: 118715765, Bronze: 192838005
+Srbija - Gold: 52399398, Silver: 53878838, Bronze: 16187898
+Sjedinjene Države - Gold: 28599642, Silver: 29567427, Bronze: 4891329
+Nemačka - Gold: 35650651, Silver: 36450340, Bronze: 15939199
+Španija - Gold: 65222145, Silver: 65273740, Bronze: 63894827
